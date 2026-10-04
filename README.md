@@ -1,6 +1,6 @@
 # ALBERT-Documentation
 
-[![License: CC BY-NC-SA 4.0](https://shields.io)](http://creativecommons.org)
+[[License: CC BY-NC-SA 4.0](https://shields.io)](http://creativecommons.org)
 
 **COMMUNITY-ONLY PROJECT NOTICE**
 This repository is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. 
